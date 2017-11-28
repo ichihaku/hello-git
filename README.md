@@ -1,4 +1,6 @@
 # hello-git
 
 hello world
-practice push
+
+conflict 解消法
+
